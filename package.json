@@ -1,0 +1,18 @@
+{
+  "name": "postcss-remfixer",
+  "version": "1.0.0",
+  "description": "fix px to rem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "rem"
+  ],
+  "dependencies": {
+      "postcss": "^5.2.16"
+  },
+  "author": "tain335",
+  "license": "MIT"
+}
